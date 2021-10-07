@@ -1,0 +1,45 @@
+body {
+	background-color: pink;
+
+	background: 
+       linear-gradient(
+             rgba(255,0,0,70%), 
+             rgba(0,0,0,100%)
+        )no-repeat,
+	    url(imagenes/pizza6.jpg);
+	    height: 1200px;
+	    /*https://www.chilango.com/comida/restaurantes/pizzas-en-cdmx/*/
+
+}
+
+h1 {
+	background-color: salmon;
+	color: white;
+	text-align: center;
+	font-family: Georgia, Arial;
+}
+p {
+	color: black;
+	font-family: Monaco, Arial;
+}
+
+h2 {
+    color: pink;
+    font-family: Lucida Sans, Arial;
+}
+
+h3{
+	color: magenta;
+	font-family: Gill Sans MT, Arial;
+}
+
+h4{
+	color: magenta;
+	font-family: Gill Sans MT, Arial;
+}
+
+img {
+    height: 120px;
+	width: 20%;
+	object-fit: cover;
+}
